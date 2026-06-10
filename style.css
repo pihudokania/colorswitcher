@@ -1,0 +1,42 @@
+#canvas{
+    display: flex;
+
+    justify-content:center ;
+    color: aliceblue;
+
+    
+}
+/* #heading2{
+} */
+
+
+
+
+.button{
+    position:relative;
+    top:200px;
+    left:50px;
+    padding:50px;
+border:2px solid black;
+     
+}
+body{
+    background-color: rgb(43, 42, 42);
+    
+    
+}
+#pink{
+    background-color:pink;
+
+}
+#cyan{
+    background-color: cyan;
+
+
+}
+#yellow{
+    background-color: rgb(254, 254, 162);
+}
+#white{
+    background-color: white;
+}
